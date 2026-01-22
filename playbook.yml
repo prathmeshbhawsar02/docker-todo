@@ -1,5 +1,5 @@
 - name: installing docker and deploying docker project
-  hosts: all
+  hosts: local
   become: true
 
   roles: 
