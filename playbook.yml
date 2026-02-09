@@ -3,7 +3,7 @@
   become: true
 
   roles: 
-    - docker
+    # - docker
     - app
     # - docker-service
     # - remove-images
